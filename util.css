@@ -256,6 +256,10 @@
     justify-content: space-evenly;
 }
 
+.d_none{
+    display: none;
+}
+
 
 
 
